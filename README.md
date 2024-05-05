@@ -15,7 +15,7 @@ This project is an advanced Python-based document summarization tool that automa
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your_username/automated-document-summarizer.git
+    git clone https://github.com/anesu398/automated-document-summarizer.git
     ```
 
 2. Navigate to the project directory:
@@ -55,4 +55,4 @@ This project is an advanced Python-based document summarization tool that automa
 Suppose we have a lengthy article named `article.txt` that we want to summarize into a concise summary of 5 sentences. We run the following command:
 
 ```bash
-python summarize_document.py --input_file article.txt --output_file summary.txt --length 5
+python app.py --input_file article.txt --output_file summary.txt --length 5
